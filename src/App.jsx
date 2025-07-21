@@ -1,9 +1,9 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Navbar from './components/Navbar'
-import Home from './components/Home'
-import Notes from './components/Notes'
-import ViewNotes from './components/ViewNotes'
-import Footer from './components/Footer'
+import Navbar from './Components/Navbar'
+import Home from './Components/Home'
+import Notes from './Components/Notes'
+import ViewNotes from './Components/ViewNotes'
+import Footer from './Components/Footer'
 
 const router = createBrowserRouter(
   [
