@@ -4,13 +4,10 @@
 <h2>Getting Started<h2/>
 <br>
 <h3>Installation</h3>
-<br>
 npm install
 <br>
-Start Development Server
-<br>
+<h3>Start Development Server</h3>
 npm run dev
-<br>
 <hr>
 <h2>Live Demo</h2>
 URL:- https://note-flow-web-app.vercel.app/ 
