@@ -1,8 +1,6 @@
 <h1>NoteFlow-WebApp<h1/>
 <p>NoteFlow is a React-based web application for creating, viewing, and managing notes efficiently.</p>
-<hr>
 <h2>Getting Started<h2/>
-<br>
 <h3>Installation</h3>
 npm install
 <br>
